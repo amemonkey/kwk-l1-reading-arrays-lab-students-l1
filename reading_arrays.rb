@@ -31,7 +31,6 @@ def first_second_and_third_students
   STUDENT_NAMES[0]
   STUDENT_NAMES[1]
   STUDENT_NAMES[2]
-  return first_second_and_third_students
 end
 
 first_student_by_index
